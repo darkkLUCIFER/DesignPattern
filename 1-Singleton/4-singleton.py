@@ -1,5 +1,5 @@
 """
-    A Class
+    Singleton Design Pattern
         - Ensure a class only has one instance, and provides global point access to it.
 """
 
